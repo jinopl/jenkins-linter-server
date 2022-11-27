@@ -1,0 +1,2 @@
+workflow-aggregator:latest
+configuration-as-code:latest
