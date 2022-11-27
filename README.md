@@ -2,6 +2,17 @@
 
 Jenkins docker linter server to validate jenkinsfile during development. Used with VSCODE plugin.
 
+To build jenkins image
+
+```sh
+make build
+```
+To run jenkins server
+
+```sh
+make run
+```
+
 - Plugin [link](https://marketplace.visualstudio.com/items?itemName=janjoerke.jenkins-pipeline-linter-connector)
 
 Install plugin , configure extension fill only 'Connector URL' as per below
